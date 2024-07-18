@@ -15,7 +15,6 @@ Key Features:
 
 This intuitive and fun card game offers an enjoyable and competitive experience for all ages.
 
-This intuitive and fun card game offers an enjoyable and competitive experience for all ages.
 
 
 ![image](https://github.com/user-attachments/assets/53e945ae-5c50-46d2-822a-b1f8be09526e)
