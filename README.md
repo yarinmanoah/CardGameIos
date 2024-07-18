@@ -29,6 +29,7 @@ This intuitive and fun card game offers an enjoyable and competitive experience 
 
 ![image](https://github.com/user-attachments/assets/4c70646d-41df-4fb1-b16e-5dcb3714e664)
 
+## Copyright
 
     Copyright 2019 Yarin Manoah
 
@@ -44,5 +45,4 @@ This intuitive and fun card game offers an enjoyable and competitive experience 
     See the License for the specific language governing permissions and
     limitations under the License.
 
-## Credits
 
